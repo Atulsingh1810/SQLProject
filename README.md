@@ -3,6 +3,9 @@
 ![Netflix Logo](https://github.com/Atulsingh1810/SQLProject/blob/main/Netflix.png)
 
 ##Objective
+
+
+
 DROP TABLE IF EXISTS netflix;
  CREATE TABLE  netflix
  (
