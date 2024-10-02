@@ -5,6 +5,9 @@
 ##Objective
 
 ###Creating Table netflix
+
+
+
 DROP TABLE IF EXISTS netflix;
  CREATE TABLE  netflix
  (
